@@ -1,0 +1,15 @@
+/* link-styles.css */
+
+a {
+    text-decoration: none;
+    color: #1281db; /* Change this to the color you want */
+    font-weight: bold;
+    display: inline-block;
+    padding: 8px 12px;
+    border: 2px solid #0d57e0; /* Use the same color as the text */
+    border-radius: 4px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
